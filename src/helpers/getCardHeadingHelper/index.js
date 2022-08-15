@@ -1,0 +1,1 @@
+export { getCardHeadingHelper } from './getCardHeadingHelper';

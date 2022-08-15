@@ -1,0 +1,1 @@
+export { selectSortedCardsSelector } from './selectSortedCardsSelector';

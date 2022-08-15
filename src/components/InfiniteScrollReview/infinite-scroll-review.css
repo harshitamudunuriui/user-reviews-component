@@ -1,0 +1,22 @@
+body {
+  background-color: #FBFBFB;
+}
+.container {
+  width: 654px;
+  margin: 0 auto;
+  padding: 25px;
+  font-family: 'Roboto', sans-serif;
+}
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+  height:700px;
+}
+.text-center {
+  text-align: center;
+}
+.logo {
+  width: 100px;
+  height: 30px;
+  margin-left: 8px;
+}

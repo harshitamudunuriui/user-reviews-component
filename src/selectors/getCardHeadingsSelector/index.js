@@ -1,0 +1,1 @@
+export { getCardHeadingsSelector } from './getCardHeadingsSelector';

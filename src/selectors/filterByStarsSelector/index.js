@@ -1,0 +1,1 @@
+export { filterByStarsSelector } from './filterByStarsSelector';

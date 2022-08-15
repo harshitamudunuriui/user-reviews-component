@@ -1,0 +1,1 @@
+export { ReviewDetailsContainer } from './ReviewDetailsContainer';

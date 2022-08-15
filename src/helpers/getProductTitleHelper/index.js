@@ -1,0 +1,1 @@
+export { getProductTitleHelper } from './getProductTitleHelper';

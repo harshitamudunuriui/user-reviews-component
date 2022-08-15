@@ -1,0 +1,1 @@
+export { InfiniteScrollReview } from './InfiniteScrollReview';

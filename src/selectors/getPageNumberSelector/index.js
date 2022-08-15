@@ -1,0 +1,1 @@
+export { getPageNumberSelector } from './getPageNumberSelector';

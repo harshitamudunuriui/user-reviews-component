@@ -1,0 +1,1 @@
+export { updatePageNumberReducer } from './updatePageNumberReducer';
